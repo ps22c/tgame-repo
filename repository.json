@@ -1,0 +1,8 @@
+{
+    "name": "TGame Official Repository",
+    "owner": "ps22c",
+    "version": "1.0.0",
+    "plugins": [
+        "physics2d"
+    ]
+}
