@@ -3,6 +3,7 @@
     "owner": "ps22c",
     "version": "1.0.0",
     "plugins": [
-        "physics2d"
+        "physics2d",
+        "tilemap"
     ]
 }
